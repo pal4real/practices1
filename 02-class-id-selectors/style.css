@@ -1,0 +1,21 @@
+.a-class, .a-class-2 {
+    color: black;
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.a-class-2 {
+    font-size: 24px;
+}
+
+#id-one {
+    color: blue;
+    font-size: 36px;
+}
+
+#id-two {
+    color: black;
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 24px;
+}
